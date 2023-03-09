@@ -13,7 +13,8 @@
 </div>
 
 <!-- About this Project -->
-<h1 align="center">泛用型智慧治療檢查表系統: 使用文字探勘於電子病歷</h1>
+<h1 align="center">泛用型智慧治療檢查表系統<br/>使用文字探勘於電子病歷</h1>
+<h1 align="center">A General-Purpose Smart Screening Checklist System<br/>Text Mining of The Eletronic Medical System</h1>
 
 112 學年國立中央大學資訊管理學系畢業專題 TEAM 01.
 
