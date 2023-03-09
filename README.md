@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/CARRYUU/emr-system">
+  <a href="https://github.com/CARRYUU/smart-screening-checklist-system">
     <img src="docs/images/carryu_big_logo.png" alt="Logo" >
   </a>
 </div>
@@ -81,7 +81,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/CARRYUU/emr-system.git
+   git clone https://github.com/CARRYUU/smart-screening-checklist-system.git
    ```
 2. Install NPM packages
    ```sh
@@ -104,7 +104,7 @@ This is an example of how to list things you need to use the software and how to
 
 @TODO
 
-See the [open issues](https://github.com/CARRYUU/emr-system/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/CARRYUU/smart-screening-checklist-system/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,23 +120,23 @@ See the [open issues](https://github.com/CARRYUU/emr-system/issues) for a full l
 
 ## Contact
 
-Project Link: [https://github.com/CARRYUU/emr-system](https://github.com/CARRYUU/emr-system)
+Project Link: [https://github.com/CARRYUU/smart-screening-checklist-system](https://github.com/CARRYUU/smart-screening-checklist-system)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/CARRYUU/emr-system.svg?style=for-the-badge
-[contributors-url]: https://github.com/CARRYUU/emr-system/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/CARRYUU/emr-system.svg?style=for-the-badge
-[forks-url]: https://github.com/CARRYUU/emr-system/network/members
-[stars-shield]: https://img.shields.io/github/stars/CARRYUU/emr-system.svg?style=for-the-badge
-[stars-url]: https://github.com/CARRYUU/emr-system/stargazers
-[issues-shield]: https://img.shields.io/github/issues/CARRYUU/emr-system.svg?style=for-the-badge
-[issues-url]: https://github.com/CARRYUU/emr-system/issues
-[license-shield]: https://img.shields.io/github/license/CARRYUU/emr-system.svg?style=for-the-badge
-[license-url]: https://github.com/CARRYUU/emr-system/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/CARRYUU/smart-screening-checklist-system.svg?style=for-the-badge
+[contributors-url]: https://github.com/CARRYUU/smart-screening-checklist-system/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/CARRYUU/smart-screening-checklist-system.svg?style=for-the-badge
+[forks-url]: https://github.com/CARRYUU/smart-screening-checklist-system/network/members
+[stars-shield]: https://img.shields.io/github/stars/CARRYUU/smart-screening-checklist-system.svg?style=for-the-badge
+[stars-url]: https://github.com/CARRYUU/smart-screening-checklist-system/stargazers
+[issues-shield]: https://img.shields.io/github/issues/CARRYUU/smart-screening-checklist-system.svg?style=for-the-badge
+[issues-url]: https://github.com/CARRYUU/smart-screening-checklist-system/issues
+[license-shield]: https://img.shields.io/github/license/CARRYUU/smart-screening-checklist-system.svg?style=for-the-badge
+[license-url]: https://github.com/CARRYUU/smart-screening-checklist-system/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
