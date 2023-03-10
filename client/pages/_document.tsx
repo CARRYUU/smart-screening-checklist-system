@@ -3,9 +3,9 @@ import Document, { Head, Html, Main, NextScript } from "next/document";
 class MyDocument extends Document {
   render() {
     let description = "Generate your dream room in seconds.";
-    let ogimage = "https://www.roomgpt.io/og-image.png";
-    let sitename = "roomGPT.io";
-    let title = "Dream Room Generator";
+    let ogimage = "../public/carryu_small_logo_white_background.png";
+    let sitename = "carryuu.student.ncu.edu.tw";
+    let title = "Smart Screening Checklist System";
 
     return (
       <Html lang="en">
