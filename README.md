@@ -36,8 +36,10 @@ This document is written by [@xxrjun](https://github.com/xxrjun).
 
 - [Our teams](#our-teams)
 - [Table of Contents](#table-of-contents)
-  - [Built With](#built-with)
-  - [Documents](#documents)
+- [Built With](#built-with)
+- [Documents](#documents)
+  - [3 Major Documents](#3-major-documents)
+  - [Other Documents](#other-documents)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -46,7 +48,7 @@ This document is written by [@xxrjun](https://github.com/xxrjun).
 - [License](#license)
 - [Contact](#contact)
 
-### Built With
+## Built With
 
 - [![Next][next.js]][next-url]
 - [![TailwindCSS][tailwindcss]][tailwindcss-url]
@@ -58,9 +60,13 @@ This document is written by [@xxrjun](https://github.com/xxrjun).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Documents
+## Documents
 
-#### 3 Major Documents
+### 3 Major Documents
+
+### Other Documents
+
+- [使用 Nginx 在 Ubuntu 上部署 Next.js App](./docs/records/client-deployment.md)
 
 <!-- GETTING STARTED -->
 
