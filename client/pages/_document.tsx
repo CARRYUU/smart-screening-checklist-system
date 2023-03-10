@@ -2,7 +2,7 @@ import Document, { Head, Html, Main, NextScript } from "next/document";
 
 class MyDocument extends Document {
   render() {
-    let description = "Generate your dream room in seconds.";
+    let description = "A General-Purpose Smart Screening Checklist System Text Mining of The Eletronic Medical System";
     let ogimage = "../public/carryu_small_logo_white_background.png";
     let sitename = "carryuu.student.ncu.edu.tw";
     let title = "Smart Screening Checklist System";
