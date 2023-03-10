@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="flex space-x-4 pb-4 sm:pb-0">
         
         <Link
-          href="https://github.com/CARRYUU/emr-system"
+          href="https://github.com/CARRYUU/smart-screening-checklist-system"
           className="group"
           aria-label="TaxPal on GitHub"
         >

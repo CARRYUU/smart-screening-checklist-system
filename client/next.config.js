@@ -2,18 +2,19 @@
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ["upcdn.io", "replicate.delivery"],
+    domains: ["carryuu.student.ncu.edu.tw"],
   },
   async redirects() {
     return [
       {
         source: "/github",
-        destination: "https://github.com/Nutlope/roomGPT",
+        destination:
+          "https://github.com/CARRYUU/smart-screening-checklist-system",
         permanent: false,
       },
       {
         source: "/deploy",
-        destination: "https://vercel.com/templates/next.js/room-GPT",
+        destination: "https://carryuu.student.ncu.edu.tw/",
         permanent: false,
       },
     ];

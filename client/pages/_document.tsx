@@ -10,7 +10,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="/carryu_small_logo.ico" />
           <meta name="description" content={description} />
           <meta property="og:site_name" content={sitename} />
           <meta property="og:description" content={description} />
